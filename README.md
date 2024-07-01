@@ -12,7 +12,7 @@ I'm a passionate developer who loves to create innovative solutions and explore 
 ## 📫 Contact Me
 
 - Email: oladuja13@gmail.com
-- LinkedIn: https://www.linkedin.com/m/in/adeola-oladuja-542433243/
+- X: https://x.com/duja_developer
 
 ## 💬 Let's Connect
 
