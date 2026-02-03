@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**oladuja/oladuja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer who loves to create innovative solutions and explore new technologies. Welcome to my GitHub profile! Here you'll find a collection of my projects, contributions, and interests.
 
-Here are some ideas to get you started:
+## 🌱 Technologies & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming languages: Python, JavaScript, Dart
+- Frameworks and libraries: Flutter, Node.js
+- Databases: MySQL, Firebase
+- Other tools: Git, Docker, AWS
+
+## 📫 Contact Me
+
+- Email: oladujaadeolaprogress@gmail.com
+- X: https://x.com/duja_developer
+
+## 💬 Let's Connect
+
+I'm always eager to collaborate on interesting projects or discuss new ideas. Feel free to reach out to me via email or connect with me on LinkedIn. You can also find more about me and my work on my personal website.
+
+Looking forward to exploring the world of code together!
