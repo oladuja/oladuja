@@ -12,7 +12,6 @@ I'm a passionate developer who loves to create innovative solutions and explore 
 ## 📫 Contact Me
 
 - Email: oladujaadeolaprogress@gmail.com
-- X: https://x.com/duja_developer
 
 ## 💬 Let's Connect
 
